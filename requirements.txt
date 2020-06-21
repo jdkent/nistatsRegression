@@ -1,0 +1,2 @@
+scikit-learn
+git+https://github.com/nilearn/nilearn.git@306fbfcc2ad094773cea85647803ab7dbb000d8a
